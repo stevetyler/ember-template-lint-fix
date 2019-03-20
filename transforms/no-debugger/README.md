@@ -1,15 +1,15 @@
-# block-indentation
+# no-debugger
 
 
 ## Usage
 
 ```
-npx ember-template-lint-fix block-indentation path/of/files/ or/some**/*glob.js
+npx ember-template-lint-fix no-debugger path/of/files/ or/some**/*glob.js
 
 # or
 
 yarn global add ember-template-lint-fix
-ember-template-lint-fix block-indentation path/of/files/ or/some**/*glob.js
+ember-template-lint-fix no-debugger path/of/files/ or/some**/*glob.js
 ```
 
 ## Input / Output
